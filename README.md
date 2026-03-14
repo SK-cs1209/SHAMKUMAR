@@ -1,4 +1,4 @@
-# Hi, I'm Sham Kumar 👋
+# Hi, I'm Shamkumar 👋
 
 🎓 Cybersecurity Student | Machine Learning & AI Enthusiast  
 🔐 Learning Penetration Testing, Digital Forensics & Network Security
